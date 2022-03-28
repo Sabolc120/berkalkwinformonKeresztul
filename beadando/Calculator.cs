@@ -19,7 +19,7 @@ namespace beadando
         {
             this.SZJA = this.brutto * 0.15;
             this.TBA = this.brutto * 0.185;
-            this.netto = this.brutto - this.brutto * 0.285;
+            this.netto = this.brutto - this.brutto * 0.335;
         }
         public void twentyFiveCalculating()
         {
